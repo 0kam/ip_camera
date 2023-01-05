@@ -1,6 +1,6 @@
 # Jennov Camera
 Jennov のIPカメラをHTTPから操作するためのPythonモジュール。
-Jennov T-Serieseでテスト済み
+Jennov T-Serieseでテスト済み。  
 安い中華IPカメラは多くがFDT社製のAPIを流用している。
 添付のPDFは以下から取得したFDT社製IPカメラのCGIガイドであり、
 他のカメラでもこのマニュアルにしたがってAPIを叩けば動作する可能性がある。  
